@@ -1,0 +1,5 @@
+.country_list {
+  display: grid;
+  grid-template-columns: calc(80rem / 3) calc(80rem / 3) calc(80rem / 3);
+  grid-gap: 5rem;
+}

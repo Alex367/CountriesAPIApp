@@ -1,0 +1,8 @@
+.search_bar{
+  position: relative;
+  height: 100%;
+}
+
+.search_bar input{
+  font-size: 1.4rem;
+}
